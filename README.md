@@ -1,1 +1,1 @@
-# Qxp_DataScience_Anirudha
+# Contains Data Science assisgnments and projects at QXP
